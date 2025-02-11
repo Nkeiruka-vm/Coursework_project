@@ -37,7 +37,7 @@ The following steps where taken to gain a better understanding of the BEBI data 
 - Analyze the sales team performance in terms of revenue, registered and activated candidates.
 
 5. Correlation Analysis:
-- Explore potential correlations between program type, location, demographics, and revenue.
+- Explore potential correlations between program type, location, demographics, and revenue using a Line charts.
 
 ## Data Analyst 
 I created a DataTable  from Timestamp column using the following syntax
