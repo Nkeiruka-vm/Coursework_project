@@ -77,7 +77,10 @@ Based on the analysis, I recommend the following actions
 2. Concentrate effort on lead generation during high performing days (Wednesday & Thursday), and month (August & October).
 3. Given the high number of leads in the nurturing stage, implementing targeted nurturing campaigns could further boost conversions
 4. Be mindful of seasomal variations and plan marketing and sales activities accordingly to maintain consistent performance
-   
+5. Expand to High-Performing Areas: Focus on Kosofe, Surulere, and Alimosho for new locations.
+6. Optimize Training Sessions: Increase physical and weekend sessions to maximize engagement.
+7. Leverage Top Managers: Use strategies from top-performing managers to improve overall team performance.
+
 Considering the performance data, the next location should ideally be one with higher potential of growth and engagement. Based on the current trends Kosofe emerges as a strong location due to its high revenue, and registration number.
 Additionally, expanding to other higher performing areas like Surulere and Alimosho could also be beneficial. In conclusion, strategically selecting one of these high performing areas, the project can maximize it's impact and continue to grow it's reach and revenue. 
 
