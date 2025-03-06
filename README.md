@@ -14,6 +14,9 @@ The primary data source for this project is the BEBI (Business Expansion Busines
 ## Tools 
 - POWER BI
 
+## Sematic Model
+![Screenshot 2025-03-06 112912](https://github.com/user-attachments/assets/6ec79fb9-045b-4f71-b47e-c557c2f3e1f2)
+
 ## Exploratory Data Analysis (EDA)
 The following steps where taken to gain a better understanding of the BEBI data and uncover insights relevant to the project objectives.
 1. Data Cleaning and Preparation
